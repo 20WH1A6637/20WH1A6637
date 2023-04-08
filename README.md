@@ -1,7 +1,11 @@
 ### Hi there 👋
 I' m Harshitha!
 You can find me on [LinkedIn](https://www.linkedin.com/in/thopuri-harshitha-7a042a206/)
+---
 
+### :fire: My Stats :
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=20wh1a6637&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
