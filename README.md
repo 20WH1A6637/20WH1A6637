@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I' m Harshitha!
 You can find me on [LinkedIn](https://www.linkedin.com/in/thopuri-harshitha-7a042a206/)
 
 <!--
