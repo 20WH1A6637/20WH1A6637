@@ -1,6 +1,6 @@
 ### Hi there 👋
 I' m Harshitha!
-You can find me on [LinkedIn](https://www.linkedin.com/in/thopuri-harshitha-7a042a206/)
+You can find me on ![linkedin](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)[LinkedIn](https://www.linkedin.com/in/thopuri-harshitha-7a042a206/)
 
 <!--
 **20WH1A6637/20WH1A6637** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
