@@ -2,8 +2,6 @@
 
 You can find me on [LinkedIn](https://www.linkedin.com/in/thopuri-harshitha-7a042a206/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 **20WH1A6637/20WH1A6637** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
